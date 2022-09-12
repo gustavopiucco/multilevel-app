@@ -1,0 +1,164 @@
+{
+	"english": {
+        "menu": {
+            "dashboard": "Dashboard",
+            "robot": "Robot",
+            "plans": "Plans",
+            "financial": {
+                "financial": "Financial",
+                "invoices": "Invoices",
+                "payment": "Payment",
+                "withdraw": "Withdraw",
+                "transactions": "Transactions"
+            },
+            "network": {
+                "network": "Network",
+                "binary": "Binary",
+                "unilevel": "Unilevel",
+                "direct": "Direct"
+            },
+            "career_plan": "Career Plan",
+            "settings": "Settings",
+            "faq": "FAQ",
+            "support_material": "Support Material",
+            "support": "Support"
+        },
+        "dashboard": {
+            "server_time": "Server Time",
+            "balance": {
+                "title": "Balance",
+                "description": "Total Balance"
+            },
+            "network_balance": {
+                "title": "Network Balance",
+                "description": "Total Network Balance"
+            },
+            "total_profit": {
+                "title": "Total Profit",
+                "description": "Total Accumulated Profit"
+            },
+            "career_points": {
+                "title": "Career Points",
+                "description": "Total Career Points"
+            },
+            "left_team": {
+                "title": "Left Team",
+                "total_users": "Total Users",
+                "total_points": "Total Points"
+            },
+            "right_team": {
+                "title": "Right Team",
+                "total_users": "Total Users",
+                "total_points": "Total Points"
+            },
+            "plan_cycle": {
+                "title": "Plan Cycle",
+                "progress": "Progress",
+                "goal": "Goal"
+            },
+            "career_plan": {
+                "title": "Career Plan"
+            },
+            "account_summary": {
+                "title": "Account Summary",
+                "default_binary_side": "Default Binary Side",
+                "username": "Username",
+                "invite_link": "Invite Link",
+                "copy": "Copy",
+                "plan": "Plan",
+                "career_plan": "Career Plan",
+                "binary_qualified": "Binary Qualified",
+                "yes": "Yes",
+                "no": "No"
+            },
+            "plans": {
+                "title": "Plans",
+                "price": "Price",
+                "membership_fee": "Membership Fee",
+                "bots": "Bots",
+                "upgrade": "Upgrade"
+            }
+        }
+	},
+	"chinese": {
+        "menu": {
+            "dashboard": "后台",
+            "robot": "机器人",
+            "plans": "套餐",
+            "financial": {
+                "financial": "财务",
+                "invoices": "发票",
+                "payment": "付款",
+                "withdraw": "提取",
+                "transactions": "交易"
+            },
+            "network": {
+                "network": "团队网络",
+                "binary": "对碰",
+                "unilevel": "单层",
+                "direct": "直"
+            },
+            "career_plan": "发展通道",
+            "settings": "设置",
+            "faq": "FAQ",
+            "support_material": "辅助资料",
+            "support": "客服支持"
+        },
+        "dashboard": {
+            "server_time": "服務器時間",
+            "balance": {
+                "title": "余额",
+                "description": "账户总余额"
+            },
+            "network_balance": {
+                "title": "Network Balance",
+                "description": "Total Network Balance"
+            },
+            "total_profit": {
+                "title": "总利润",
+                "description": "累计总利润"
+            },
+            "career_points": {
+                "title": "发展点数",
+                "description": "总发展点数"
+            },
+            "left_team": {
+                "title": "左区",
+                "total_users": "总用户",
+                "total_points": "总点数"
+            },
+            "right_team": {
+                "title": "右区",
+                "total_users": "总用户",
+                "total_points": "总点数"
+            },
+            "plan_cycle": {
+                "title": "套餐周期",
+                "progress": "进度",
+                "goal": "目标"
+            },
+            "career_plan": {
+                "title": "发展通道"
+            },
+            "account_summary": {
+                "title": "账户概览",
+                "username": "用户名",
+                "default_binary_side": "默认对碰边",
+                "invite_link": "I邀请链接",
+                "copy": "复制",
+                "plan": "套餐",
+                "career_plan": "发展通道",
+                "binary_qualified": "对碰奖资格",
+                "yes": "Yes",
+                "no": "No"
+            },
+            "plans": {
+                "title": "套餐",
+                "price": "Price",
+                "membership_fee": "Membership Fee",
+                "bots": "Bots",
+                "upgrade": "Upgrade"
+            }
+        }
+	}
+}
